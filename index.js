@@ -17,19 +17,3 @@ const record = [
   
 ];
 
-// function superbowlWin(x){
-//   let result;
-//   let y = x.find(e=> {
-//     if (e.result === "W"){
-//     result = e.year;
-//     return result;
-//   }
-//   else{
-//     result = undefined;
-//   }
-  
-// });
-// return result;
-// }
-   
-// console.log(superbowlWin(record));
